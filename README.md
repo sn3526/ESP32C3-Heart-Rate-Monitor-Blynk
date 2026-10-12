@@ -35,7 +35,7 @@ This project uses an ESP32-C3 SuperMini and an analog Pulse Sensor to estimate h
 |---|---|
 | VCC | 5 V, if supported by the sensor |
 | GND | GND |
-| Signal | GPIO0 |
+| Signal | GPIO 2 |
 
 Confirm the sensor's voltage requirements and ensure its output is safe for the ESP32-C3 input.
 
